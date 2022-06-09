@@ -21,11 +21,6 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-          ],
-        },
-        {
           title: 'Community',
           items: [
             {
