@@ -11,11 +11,6 @@ sections:
   match: "*.md"
   templates:
   - page
-- type: directory
-  path: blog
-  label: Blog
-  create: documents
-  match: "*.md"
 - type: document
   path: sidebars.json
   label: Sidebar
