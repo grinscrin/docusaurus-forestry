@@ -1,5 +1,5 @@
 ---
-id: ''
+id: profile
 title: Your profile
 sidebar_label: Your profile
 
