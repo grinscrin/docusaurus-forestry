@@ -1,5 +1,5 @@
 ---
-slug: "/"
+slug: /
 title: Style Guide
 sidebar_label: Style Guide
 id: doc1
