@@ -2,7 +2,8 @@
   "someSidebar": {
     "Docusaurus": [
       "doc1",
-      "doc3"
+      "doc3",
+      "profile"
     ],
     "Features": [
       "mdx"
