@@ -48,9 +48,6 @@ module.exports = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.json'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/grinscrin/docusaurus-forestry/edit/master/website/',
         },
         blog: false,
         theme: {
