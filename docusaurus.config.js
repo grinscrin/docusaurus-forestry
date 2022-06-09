@@ -14,7 +14,7 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {to: 'blog', label: 'Blog', position: 'left'},
+        
       ],
     },
     footer: {
@@ -39,19 +39,6 @@ module.exports = {
             {
               label: 'Twitter',
               href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
