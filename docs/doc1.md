@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: "/"
 title: Style Guide
 sidebar_label: Style Guide
 id: doc1
@@ -10,6 +10,8 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 ## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
+
+asjdja sjdjas jdjasda asd asd asdas 
 
 ## Headers
 
@@ -49,11 +51,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 4. And another item.
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
 
 ***
