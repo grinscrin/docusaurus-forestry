@@ -9,8 +9,8 @@ fields:
     min: 1
     max: 500
   label: ID/Slug
-  description: "- use lower case<br>- no whitespace &amp; special chars<br>- use '-'
-    to concat the words<br>ex. my-slug-of-content"
+  description: use lower case, no whitespace &amp; special chars, use '-' to concat
+    the words. <em>ex. my-slug-of-content</em>
 - type: text
   name: title
   label: Title
