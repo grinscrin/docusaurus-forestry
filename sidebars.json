@@ -1,6 +1,7 @@
 {
   "someSidebar": {
     "Docusaurus": [
+      "My Dir/",
       "doc1",
       "doc3",
       "profile"
