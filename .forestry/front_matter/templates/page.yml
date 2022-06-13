@@ -4,12 +4,26 @@ hide_body: false
 fields:
 - type: text
   name: id
-  label: id
+  config:
+    required: true
+    min: 1
+    max: 500
+  label: ID/Slug
+  description: "- use lower case<br>- no whitespace &amp; special chars<br>- use '-'
+    to concat the words<br>ex. my-slug-of-content"
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
+    min: 1
+    max: 500
 - type: text
   name: sidebar_label
-  label: sidebar_label
+  label: Sidebar Label
+  config:
+    required: true
+    min: 1
+    max: 100
 pages:
 - docs/your-profile.md
