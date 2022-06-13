@@ -12,7 +12,7 @@ sections:
   templates:
   - page
 - type: document
-  path: sidebars.js
+  path: sidebars.json
   label: Sidebar
 upload_dir: static/img
 public_path: "/img"
