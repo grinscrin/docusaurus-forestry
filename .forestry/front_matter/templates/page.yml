@@ -12,5 +12,4 @@ fields:
   name: sidebar_label
   label: sidebar_label
 pages:
-- docs/My Dir/test-doc-inside-dir.md
 - docs/your-profile.md
