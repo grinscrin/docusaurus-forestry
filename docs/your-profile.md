@@ -8,8 +8,6 @@ sidebar_label: Your profile
 
 Your profile is where you can find your photos, videos and settings on Instagram. Here, you can view what you've shared, see a list of the people that you're following and who's following you.
 
-aiyaiyaiya....
-
 Learn how to:
 
 * [Add a bio](https://help.instagram.com/362497417173378?helpref=about_content) or a website to your profile.
