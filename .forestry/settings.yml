@@ -13,9 +13,9 @@ sections:
   - page
 - type: directory
   path: docs
-  label: Metadata
-  create: all
-  match: "**/*"
+  label: Sidebar
+  create: documents
+  match: "**/*.json"
   new_doc_ext: json
   templates:
   - metadata
