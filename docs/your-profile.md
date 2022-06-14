@@ -2,6 +2,7 @@
 id: 2-profile
 title: Your profile
 sidebar_label: Your profile
+sidebar_position: "3"
 
 ---
 ## Your profile
