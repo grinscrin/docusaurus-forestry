@@ -1,4 +1,14 @@
 ---
 label: Metadata
 hide_body: true
-fields: []
+fields:
+- name: position
+  type: text
+  config:
+    required: false
+  label: Position
+- name: label
+  type: text
+  config:
+    required: false
+  label: Label
