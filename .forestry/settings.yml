@@ -14,7 +14,7 @@ sections:
 - type: directory
   path: docs
   label: Sidebar
-  create: documents
+  create: all
   match: "**/*"
   new_doc_ext: json
   templates:
