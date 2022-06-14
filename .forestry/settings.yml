@@ -8,8 +8,8 @@ sections:
   path: docs
   label: Metadata
   create: all
-  match: "**/*.json"
-  new_doc_ext: ".json"
+  match: "**/*"
+  new_doc_ext: json
   templates:
   - metadata
 - type: directory
@@ -17,7 +17,7 @@ sections:
   label: Contents
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - page
 upload_dir: static/img
