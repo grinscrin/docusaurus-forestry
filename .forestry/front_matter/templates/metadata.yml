@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Label
+pages:
+- docs/Second Dir/_category_.json
