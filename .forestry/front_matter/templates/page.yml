@@ -31,4 +31,5 @@ fields:
     required: false
   label: sidebar_position
 pages:
+- docs/A Third Dir/this-is-content-of-third-dir.md
 - docs/your-profile.md
