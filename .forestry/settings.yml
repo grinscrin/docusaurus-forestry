@@ -4,14 +4,12 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- type: heading
-  label: Sidebar
 - type: directory
   path: docs
   label: Contents
   create: all
   match: "**/*"
-  new_doc_ext: app
+  new_doc_ext: md,json
   templates:
   - metadata
   - page
