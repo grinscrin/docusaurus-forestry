@@ -7,11 +7,10 @@ sections:
 - type: directory
   path: docs
   label: Contents
-  create: all
+  create: documents
   match: "**/*"
-  new_doc_ext: json
+  new_doc_ext: ''
   templates:
-  - metadata
   - page
 upload_dir: static/img
 public_path: "/img"
