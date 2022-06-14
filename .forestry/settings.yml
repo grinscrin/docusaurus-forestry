@@ -12,14 +12,6 @@ sections:
   new_doc_ext: json
   templates:
   - metadata
-- type: directory
-  path: docs
-  label: Contents
-  create: documents
-  match: "**/*"
-  new_doc_ext: app
-  templates:
-  - page
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
