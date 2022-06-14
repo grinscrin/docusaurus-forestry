@@ -6,6 +6,14 @@ webhook_url:
 sections:
 - type: directory
   path: docs
+  label: Metadata
+  create: all
+  match: "**/*.json"
+  new_doc_ext: ".json"
+  templates:
+  - metadata
+- type: directory
+  path: docs
   label: Contents
   create: documents
   match: "**/*"
