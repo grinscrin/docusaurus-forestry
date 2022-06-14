@@ -3,6 +3,7 @@ slug: mdx
 title: Powered by MDX
 id: 3-mdx
 sidebar_label: Powered by MDX
+sidebar_position: "4"
 
 ---
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
