@@ -11,14 +11,6 @@ sections:
   match: "**/*.md"
   templates:
   - page
-- type: directory
-  path: docs
-  label: Sidebar
-  create: all
-  match: "**/*"
-  new_doc_ext: json
-  templates:
-  - metadata
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
