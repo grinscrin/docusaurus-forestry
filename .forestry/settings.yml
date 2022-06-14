@@ -15,7 +15,7 @@ sections:
   path: docs
   label: Sidebar
   create: documents
-  match: "**/*.json"
+  match: "**/*"
   new_doc_ext: json
   templates:
   - metadata
