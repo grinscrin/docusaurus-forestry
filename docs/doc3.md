@@ -3,6 +3,7 @@ slug: doc3
 title: Help Centre
 id: doc3
 sidebar_label: Help Centre
+sidebar_position: "1"
 
 ---
 # HELP CENTRE
