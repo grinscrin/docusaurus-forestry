@@ -32,4 +32,5 @@ fields:
   label: sidebar_position
 pages:
 - docs/A Third Dir/this-is-content-of-third-dir.md
+- docs/Second Dir/second-dir-content.md
 - docs/your-profile.md
