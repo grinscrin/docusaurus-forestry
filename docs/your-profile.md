@@ -1,5 +1,5 @@
 ---
-id: profile
+id: 2-profile
 title: Your profile
 sidebar_label: Your profile
 
