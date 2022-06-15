@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Label
+pages:
+- docs/My Dir/_category_.json
