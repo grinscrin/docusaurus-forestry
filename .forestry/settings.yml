@@ -16,7 +16,7 @@ sections:
   path: docs
   label: Contents
   create: all
-  match: "**/*.md"
+  match: "**/*"
   templates:
   - page
 upload_dir: static/img
