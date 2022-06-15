@@ -13,4 +13,5 @@ fields:
     required: false
   label: Label
 pages:
+- docs/A Third Dir/_category_.json
 - docs/My Dir/_category_.json
