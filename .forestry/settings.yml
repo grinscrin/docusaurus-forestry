@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: docs
-  label: Sidebar
+  label: Metadata
   create: documents
   match: "**/*.{md,json}"
   new_doc_ext: json
