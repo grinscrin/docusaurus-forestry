@@ -14,4 +14,6 @@ fields:
   label: Label
 pages:
 - docs/A Third Dir/_category_.json
+- docs/A Third Dir/_category_.json
+- docs/My Dir/_category_.json
 - docs/My Dir/_category_.json
