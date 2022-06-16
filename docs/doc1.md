@@ -12,7 +12,9 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
-asjdja sjdjas jdjasda asd asd asdas 
+asjdja sjdjas jdjasda asd asd asdas
+
+![](https://i.imgur.com/oNRy8xO.png)
 
 ## Headers
 
