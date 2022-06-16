@@ -14,8 +14,6 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 asjdja sjdjas jdjasda asd asd asdas
 
-![](https://i.imgur.com/oNRy8xO.png)
-
 ## Headers
 
 # H1 - Create the best documentation
