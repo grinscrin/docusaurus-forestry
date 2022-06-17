@@ -21,9 +21,9 @@ sections:
   templates:
   - page
 upload_dir: ''
-public_path: https://cdnhelp.paperlust.co.s3.amazonaws.com
-front_matter_path: https://cdnhelp.paperlust.co
-use_front_matter_path: true
+public_path: ''
+front_matter_path: ''
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_output_directory: build
